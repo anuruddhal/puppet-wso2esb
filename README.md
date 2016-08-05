@@ -1,2 +1,6 @@
-# puppet-wso2esb
-WSO2 ESB Puppet Modules
+# WSO2 ESB Puppet Module
+
+#### Run following commands to get the submodules
+
+`git submodule init`
+`git submodule update`
